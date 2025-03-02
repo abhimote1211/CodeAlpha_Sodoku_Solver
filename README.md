@@ -1,4 +1,4 @@
-# 🧩 Sudoku Solver
+# 🧩 Sudoku Solver CodeAlpha C++ Internship TASK 3
 
 ## 📌 Project Overview
 This **Sudoku Solver** is a C++ program that efficiently solves Sudoku puzzles of varying difficulty levels using backtracking. Additionally, a **Graphical User Interface (GUI)** can be implemented for better user interaction.
